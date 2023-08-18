@@ -8,6 +8,7 @@ powerbeam/datatable is a jquery datatable wrapper that includes json-viewer and 
 1. jquery.
 2. json-editor.
 3. jquery-datatable.
+4. bootstrap.
 
 
 ***libraries resources***
@@ -15,6 +16,8 @@ powerbeam/datatable is a jquery datatable wrapper that includes json-viewer and 
 - https://cdn.jsdelivr.net/npm/datatables@1.10.18/media/js/jquery.dataTables.min.js
 - https://cdn.jsdelivr.net/npm/datatables@1.10.18/media/css/jquery.dataTables.min.css
 - https://cdn.jsdelivr.net/npm/json-editor@0.7.28/dist/jsoneditor.min.js
+- https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css
+- https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
 
 
 ## How to use Datatable.
