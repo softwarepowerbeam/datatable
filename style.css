@@ -1,0 +1,13 @@
+.inline-container {
+    display: inline-block;
+}
+
+.inline-container span {
+    display: inline-block;
+    margin-right: 10px;
+}
+.img-mini {
+    width: 100px;
+    height: 100px;
+    display: inline;
+}
